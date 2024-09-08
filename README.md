@@ -8,6 +8,11 @@ till now -
 2. Angular Components and how standalone were introduced
 3. components in angular are built using  cli.
 4. data-binding 1-way, 2-way and signal.
+5. started learning about ng-if and ng-for , something I didn't realise
+before is how powerful ngmodel and two way data binding is.
+6. also learnt about attribute -derivatives.pretty cool things in angular. the only thing that disappoints that it is really verbose and can get really complex.
+7. ok it seems that I found the first major con of angular @if,@else why do I have to write it like this. React in this regards is so much better with its jsx elements.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.3.
 
 ## Development server
