@@ -1,5 +1,13 @@
 # FirstProject
 
+Ok I will add checkpoints here :
+about what all I have learnt -
+till now -
+
+1. Angular setup and structure
+2. Angular Components and how standalone were introduced
+3. components in angular are built using  cli.
+4. data-binding 1-way, 2-way and signal.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.3.
 
 ## Development server
